@@ -1,4 +1,3 @@
-```markdown
 # Firebase Firestore CRUD Operations with Node.js and Express
 
 This repository contains a Node.js and Express application that demonstrates how to perform CRUD (Create, Read, Update, Delete) operations using Firebase Firestore. You can use this as a reference for building similar applications or integrating Firebase Firestore into your projects.
