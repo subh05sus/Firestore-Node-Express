@@ -14,7 +14,7 @@ Before running the application, make sure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/subh05sus/Firestore-Node-Express.git
    ```
 
 2. Install the required dependencies:
