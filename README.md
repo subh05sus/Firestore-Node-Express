@@ -1,6 +1,3 @@
-Certainly! Here's a sample `README.md` file for your GitHub repository on using Firebase Firestore with Node.js and Express for CRUD operations. You can customize it further based on your specific project details.
-
-```markdown
 # Firebase Firestore with Node.js and Express
 
 This repository contains sample code and instructions on how to integrate Firebase Firestore with a Node.js and Express application to perform CRUD (Create, Read, Update, Delete) operations.
@@ -18,7 +15,7 @@ Before you begin, make sure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/subh05sus/Firestore-Node-Express.git
    ```
 
 2. Install the required dependencies:
